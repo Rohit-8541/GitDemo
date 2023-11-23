@@ -1,4 +1,4 @@
 # GitDemo
 GitDemo
 <br>
-Author - Rohit Kumar
+Author - Rohit Tech
